@@ -26,7 +26,7 @@
 |3| Pothole Object Detection | [Link](https://www.kaggle.com/datasets/andrewmvd/pothole-detection)|  [Link](https://www.kaggle.com/code/sudhanshu2198/real-time-pothole-detection-using-ssd)        |   [Link](https://www.kaggle.com/datasets/sudhanshu2198/pothole-detection-learned-weights)     |
 
 ## 🛠 Skills
-Pytorch, Torchvision, Ultralytics, OpenCV, Numpy, Streamlit, Git
+Pytorch, Torchvision, Ultralytics, OpenCV, Numpy, Streamlit, Git, Arduino
 
 ## Directory Tree
 ```bash
@@ -35,6 +35,7 @@ Pytorch, Torchvision, Ultralytics, OpenCV, Numpy, Streamlit, Git
 │   │── real-time-pothole-detection-using-ssd.ipynb
 |   |── traffic-density-classification-using-efficientnet.ipynb
 │   └── vehicle-category-object-detection-pytorch.ipynb
+|   |__Health_Monitoring_System
 ├── webapp
 │   ├── images
 │   │   ├── category_img
@@ -112,17 +113,3 @@ Create Virtaul Environment and install dependencies
 Run Locally
 ```bash
   streamlit run Introduction.py
-```
-
-## Contributions
-Chapter Lead: Louis Jefferson Zhang
-
-Technical Lead: Sudhanshu Rastogi
-
-Collaborators:
-- Mohamed Chahed
-- Mansoor Baig
-- Nishtha Bhattacharjee
-
-## Project Archives
-Navigate to [archive branch](https://github.com/OmdenaAI/smart-traffic-system-JKT/tree/archive) to look into some project development notebooks.
